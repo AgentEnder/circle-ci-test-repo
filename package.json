@@ -1,0 +1,10 @@
+{
+  "name": "circleci-test-repo",
+  "devDependencies": {
+    "nx": "21.0.0-rc.2"
+  },
+  "scripts": {
+    "echo": "echo hello world"
+  },
+  "nx": {}
+}
